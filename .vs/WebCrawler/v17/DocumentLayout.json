@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240418_1first_hkopendata\\webcrawler\\webcrawler\\webcrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\webcrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240418_1first_hkopendata\\webcrawler\\webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240418_1first_hkopendata\\webcrawler\\webcrawler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD17541F-7412-4C22-BBEB-4AA83D9144AD}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebCrawler\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebCrawler\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T02:25:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebCrawler.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\WebCrawler.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\WebCrawler.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\WebCrawler.cs",
+              "RelativeToolTip": "WebCrawler\\WebCrawler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:59:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240418_1first_hkopendata\\WebCrawler\\WebCrawler\\Program.cs",
+              "RelativeToolTip": "WebCrawler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:58:35.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
